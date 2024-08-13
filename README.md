@@ -10,7 +10,7 @@ Classy Weather is a React-based web application that allows users to search for 
 
 ## Demo
 
-Check out the live site: [Classy Weather](https://your-netlify-url.netlify.app/)
+Check out the live site: [Classy Weather](https://classy-weatherr.netlify.app/)
 
 ## Features
 
