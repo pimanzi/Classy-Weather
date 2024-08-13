@@ -28,33 +28,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/classy-weather.git
-   cd classy-weather```
-
-## Features
-
-- **Weather Search:** Enter a location to get the weather forecast for the coming days.
-- **Detailed Forecast:** View temperature, wind speed, and other weather-related data.
-- **Geocoding Support:** Automatically convert location names into geographic coordinates.
-
-## Technologies Used
-
-- **React**: For building the user interface.
-- **Create React App**: For setting up the React environment.
-- **Open-Meteo API**: For fetching weather and geocoding data.
-  - [Geocoding API](https://geocoding-api.open-meteo.com)
-  - [Weather API](https://api.open-meteo.com)
-- **Netlify**: For deploying the application.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
    git clone https://github.com/pimanzi/Classy-Weather.git
-   cd classy-weather
-
+   cd classy-weather```
 
 
 2. **Install depedencies**
