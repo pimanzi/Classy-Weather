@@ -2,11 +2,6 @@
 
 Classy Weather is a React-based web application that allows users to search for weather forecasts for the upcoming days. The app utilizes geocoding and weather APIs to provide accurate and up-to-date weather information.
 
-## Demo
-
-Check out the live site: [Classy Weather](# Classy Weather
-
-Classy Weather is a React-based web application that allows users to search for weather forecasts for the upcoming days. The app utilizes geocoding and weather APIs to provide accurate and up-to-date weather information.
 
 ## Demo
 
@@ -34,8 +29,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/classy-weather.git
-   cd classy-weather
-)
+   cd classy-weather```
 
 ## Features
 
