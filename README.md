@@ -1,24 +1,24 @@
-# CinemaPopcorn
+# Classy Weather
 
-
-
-CinemaPopcorn is a React-based web application that allows users to save movies they wish to watch in the future and rate them after watching. The app fetches movie data using the [OMDB API](https://www.omdbapi.com) and is built with Vite for a fast and efficient development experience.
+Classy Weather is a React-based web application that allows users to search for weather forecasts for the upcoming days. The app utilizes geocoding and weather APIs to provide accurate and up-to-date weather information.
 
 ## Demo
 
-Check out the live site: [CinemaPopcorn](https://classy-weatherr.netlify.app/)
+Check out the live site: [Classy Weather](https://your-netlify-url.netlify.app/)
 
 ## Features
 
-- **Save Movies:** Add movies to your watchlist for future reference.
-- **Rate & Review:** After watching a movie, give it a rating and leave a review.
-- **Search Movies:** Quickly search for movies using the OMDB API.
+- **Weather Search:** Enter a location to get the weather forecast for the coming days.
+- **Detailed Forecast:** View temperature, wind speed, and other weather-related data.
+- **Geocoding Support:** Automatically convert location names into geographic coordinates.
 
 ## Technologies Used
 
 - **React**: For building the user interface.
-- **Vite**: For fast development and build.
-- **OMDB API**: To fetch movie details.
+- **Create React App**: For setting up the React environment.
+- **Open-Meteo API**: For fetching weather and geocoding data.
+  - [Geocoding API](https://geocoding-api.open-meteo.com)
+  - [Weather API](https://api.open-meteo.com)
 - **Netlify**: For deploying the application.
 
 ## Installation
@@ -26,12 +26,11 @@ Check out the live site: [CinemaPopcorn](https://classy-weatherr.netlify.app/)
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-
    ```bash
-   git clone https://github.com/pimanzi/cinemaPopcorn.git
-   cd cinema-popcorn
+   git clone https://github.com/pimanzi/Classy-Weather.git
+   cd classy-weather
 
-   ```
+
 
 2. **Install depedencies**
 
@@ -42,7 +41,7 @@ npm install
 3. **Start the development server**
 
 ```
-npm run dev
+npm start
 ```
 
 4. **_Build for pproduction_**
